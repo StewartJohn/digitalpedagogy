@@ -196,3 +196,5 @@ Wikimedia Foundation. "A 12-week assignment to write a Wikipedia article." <http
 *Some language in the Curatorial Statement is drawn directly from:*
 
 Stommel, Jesse. "Hybridity, pt. 2: What is Hybrid Pedagogy?" *Hybrid Pedagogy*. <http://www.hybridpedagogy.com/Journal/hybridity-pt-2-what-is-hybrid-pedagogy/>
+
+test
